@@ -1,0 +1,118 @@
+# Unity-generated folders (project root)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Generated build / asset delivery output
+/AssetBundles/
+/ServerData/
+/ExportedObj/
+/IFXBuildToolProjects/
+*.apk
+*.aab
+*.app/
+*.unitypackage
+*.unitypackage.meta
+
+# Keep Assets/, Packages/ (including packages-lock.json), ProjectSettings/,
+# toolkit source, scenes, prefabs, materials, shaders and their .meta files.
+# Do NOT ignore all .asset, .dll or .meta files.
+
+# IDE-generated files and per-user settings
+.vs/
+.gradle/
+.consulo/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.DotSettings.user
+*.csproj.meta
+*.sln.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Keep portable VS Code configuration, ignore local history
+/.vscode/*
+!/.vscode/settings.json
+!/.vscode/extensions.json
+!/.vscode/tasks.json
+!/.vscode/launch.json
+/.vscode/.history/
+
+# Blender and editor backups
+*.blend[0-9]*
+*.blend[0-9]*.meta
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+
+# OS files and diagnostics
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Thumbs.db.meta
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+*.log
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+
+# Generated Engage/IFX build helpers used by this project
+/Assets/IFX_Thumbnail_Assets/Saved_Thumbnails/
+/UserSettings.json
+/UserSettings.json.meta
+/Android_Temp.bat
+/Android_Temp.bat.meta
+/iOS_Temp.bat
+/iOS_Temp.bat.meta
+/iOSBuild.bat
+/iOSBuild.bat.meta
+/AndroidBuild.bat
+/AndroidBuild.bat.meta
+
+# Unity-generated test scenes
+/InitTestScene*.unity*
+/Assets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Addressables-generated content; keep the authored settings/groups
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/aa.meta
+/Assets/AddressableAssetsData/link.xml
+/Assets/AddressableAssetsData/link.xml.meta
+/Assets/Addressables_Temp/
+/Assets/Addressables_Temp.meta
+
+# Visual Scripting-generated cache
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# Local Plastic SCM workspace state
+/.plastic/
